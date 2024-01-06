@@ -22,7 +22,7 @@
 
         toadmin {
             bindings = <&sl 6>;
-            key-positions = <40 38>;
+            key-positions = <40 37>;
             timeout-ms = <1000>;
             require-prior-idle-ms = <100>;
             layers = <0 1 2 3 4 5>;
